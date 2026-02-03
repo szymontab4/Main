@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 
 struct student{
     char imie[20];
@@ -29,5 +30,7 @@ int main()
 
     struct student *tab=tworzenie(n);
     wpisywanie(tab, n);
+
+    free(tab);
 
 }
