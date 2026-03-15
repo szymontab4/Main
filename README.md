@@ -1,1 +1,1 @@
-Zapis zadań z labolatoriów, główna treść
+Zapis zadań z labolatoriów
