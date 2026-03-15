@@ -1,3 +1,8 @@
+/*Napisz program do obliczania macierzy dwuwymiarowych o zadanym 
+rozmiarze i wyświetlania ich zawartości. Program powinien wprowadzać wartości do macierzy 
+wejściowych A i B oraz obliczać macierz wynikową. Zastosuj podstawowe operacje 
+sumowania, odejmowania, mnożenia oraz transponowania macierzy.*/
+
 #include<iostream>
 #include<cmath>
 
