@@ -1,4 +1,4 @@
-Most important:
+Best examples:
 
 dzialania_na_macierzach – Matrix operations
 
